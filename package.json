@@ -11,5 +11,10 @@
   "license": "MIT",
   "peerDependencies": {
     "react": "^17.0.2"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "autoinstall": false
+    }
   }
 }
