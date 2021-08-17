@@ -14,7 +14,7 @@
   },
   "peerDependenciesMeta": {
     "react": {
-      "autoinstall": false
+      "optional": true
     }
   }
 }
